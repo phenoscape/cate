@@ -37,7 +37,7 @@ The team includes PIs and co-PIs at 4 institutions:
 * [Hilmar Lapp] (Duke University, [Center for Genomic and Computational Biology]), leading research and development of objective functions for character synthesis, client software (in particular R packages), and design of APIs;
 * Todd Vision (University of North Carolina at Chapel Hill), leading research and development on semantic ancestral character reconstruction and phylogenetic character enrichment;
 * Jim Balhoff (Renaissance Computing Institute), developing necessary software and reasoning infrastructure on top of the Phenoscape KB; 
-* James Uyeda (Virginia Tech), leading research, development, and applications of computable knowledge-informed probabilistic models for trait evolution.
+* Joseph Uyeda (Virginia Tech), leading research, development, and applications of computable knowledge-informed probabilistic models for trait evolution.
 
 #### Join us
 
