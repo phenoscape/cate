@@ -2,7 +2,7 @@
 title: MAS4CATE
 tag_text: Enabling Machine-actionable Semantics for Comparative Analyses of Trait Evolution
 description: Initial website for Machine Actionable Semantics for Comparative Analyses of Trait Evolution (MAS4CATE), an NSF-funded project
-url: "http://cate.phenoscape.org"
+url: "https://scate.phenoscape.org"
 baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
