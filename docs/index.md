@@ -33,7 +33,7 @@ In addition, to better prepare evolutionary biologist users and developers of co
 #### Principal Investigators
 The team includes PIs and co-PIs at 4 institutions:
 
-* Wasila Dahdul (University of South Dakota), leading data annotation, ontology development, and driving biological research questions;
+* Wasila Dahdul and Paula Mabee (University of South Dakota), leading data annotation, ontology development, and driving biological research questions;
 * [Hilmar Lapp] (Duke University, [Center for Genomic and Computational Biology]), leading research and development of objective functions for character synthesis, client software (in particular R packages), and design of APIs;
 * Todd Vision (University of North Carolina at Chapel Hill), leading research and development on semantic ancestral character reconstruction and phylogenetic character enrichment;
 * Jim Balhoff (Renaissance Computing Institute), developing necessary software and reasoning infrastructure on top of the Phenoscape KB; 
