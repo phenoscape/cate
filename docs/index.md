@@ -43,6 +43,7 @@ The team includes PIs and co-PIs at 4 institutions:
 
 We are (or will soon be) actively recruiting undergraduate and graduate students as well as postdocs at different institutions:
 
+- **Duke University / Hilmar Lapp** is recruiting [student (undergraduate or graduate) programming interns](https://duke.box.com/v/Phenoscape-Intern-Spring-2019) to work on software development tasks driven by implementing user stories, in particular as part of the [Rphenoscape] package.
 - **Duke University / Hilmar Lapp** is recruiting a computational biology graduate student (3 years) or postdoc (2 years) for developing algorithms, objective functions, and statistics for calibration and cross-study synthesis of morphological trait matrices. See aim I and development goals Ia, Ib, and Ic in the [proposal text]. Beginning in Jan 2018, Lapp will also recruit semester-long undergraduate student interns to help with software development goals.
 
 ### Funding
@@ -54,6 +55,7 @@ The grant proposal text with references is publicly available:
 
 [Phenoscape]: http://phenoscape.org
 [Phenoscape KB]: http://kb.phenoscape.org
+[Rphenoscape]: https://github.com/phenoscape/rphenoscape
 [Hilmar Lapp]: http://lappland.io/
 [Center for Genomic and Computational Biology]: http://genome.duke.edu/
 [1661456]: https://nsf.gov/awardsearch/showAward?AWD_ID=1661456
