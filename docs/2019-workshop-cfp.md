@@ -9,7 +9,7 @@ title: Phylogenetic comparative analysis of integrated anatomical traits
 
 - Date: June 26, 2019 (Wednesday)
 - Time: 9:00 am-12:00 pm
-- Location: Omni Hotel, Providence RI
+- Location: South County Room, Omni Providence Hotel (adjacent to RICC)
 
 ### Call for participation
 Ontologies encode information about a domain of knowledge, such as how anatomical structures are related, which is crucial information for modeling character evolution. Phenoscape, in its current _Semantic Comparative Analyses for Trait Evolution_ ([SCATE]) project, is developing tools that use the computable knowledge in ontologies to improve phenotypic character modeling and inform analyses of trait evolution. To train evolutionary biologists and developers of comparative analysis tools to adopt these new capabilities, the SCATE team will be holding a short course on using ontologies in comparative analyses of integrated anatomical traits, in conjunction with the 2019 [iEvoBio] and [Evolution Meetings], on June 26, 2019 in Providence, Rhode Island.  
