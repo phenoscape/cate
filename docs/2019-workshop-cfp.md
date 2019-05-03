@@ -20,6 +20,9 @@ Graduate students, postdocs, faculty, and software developers with interests in 
 
 Free registration: Applications accepted until May 15th or capacity is reached. Register by filling out the form at <https://goo.gl/forms/802KN6cd6cQOI01Q2>
 
+### References
+- Dececchi et al. Toward Synthesizing Our Knowledge of Morphology: Using Ontologies and Machine Reasoning to Extract Presence/Absence Evolutionary Phenotypes across Studies. Systematic Biology 64, 936. 2015. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604830/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604830/)
+- Tarasov et al. PARAMO pipeline: reconstructing ancestral anatomies using ontologies and stochastic mapping. bioRxiv 2019 [https://doi.org/10.1101/553370](https://doi.org/10.1101/553370)
 
 ### Funding
 
