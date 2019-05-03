@@ -15,14 +15,14 @@ title: Phylogenetic comparative analysis of integrated anatomical traits
 
 * 9:00am	Welcome and intros, goals
 * 9:15	Background concepts: anatomy ontologies, phenotype annotations and character dependencies
-    - Using Phenoscape Knowledgebase and RPhenoscape*
+    - Using Phenoscape Knowledgebase and RPhenoscape
 * 9:55	Obtaining presence/absence supermatrices
     - Using OntoTrace with RPhenoscape
 * 10:30	_Break_
 * 10:45	Constructing stochastic character maps on a phylogeny
-    - Using the PARAMO pipeline with RevBayes*
+    - Using the PARAMO pipeline with RevBayes
 * 11:30	How to manage your own data
-    - Demo of Phenex and Phenoscape annotation guidelines*
+    - Demo of Phenex and Phenoscape annotation guidelines
 * 11:45	How to learn more
     - Semantic similarity (optional demo), other applications
     - How to retrieve candidate genes for anatomical traits
