@@ -37,6 +37,14 @@ Graduate students, postdocs, faculty, and software developers with interests in 
 
 Free registration: Applications accepted until May 15th or capacity is reached. Register by filling out the form at <https://goo.gl/forms/802KN6cd6cQOI01Q2>
 
+### Instructors
+- [Jim Balhoff](https://orcid.org/0000-0002-8688-6599) Renaissance Computing Institute
+- [Wasila Dahdul](https://scholar.google.com/citations?user=qHfrfGwAAAAJ&hl=en), U South Dakota
+- [Hilmar Lapp](https://scholars.duke.edu/person/Hilmar.Lapp), Duke U
+- [Paula Mabee](https://www.usd.edu/faculty-and-staff/Paula-Mabee), U South Dakota
+- [Josef Uyeda](https://www.uyedalab.com/), Virginia Tech
+- [Todd Vision](https://orcid.org/0000-0002-6133-2581), UNC Chapel Hill
+
 ### References
 - Dececchi et al. Toward Synthesizing Our Knowledge of Morphology: Using Ontologies and Machine Reasoning to Extract Presence/Absence Evolutionary Phenotypes across Studies. Systematic Biology 64, 936. 2015. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604830/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604830/)
 - Tarasov et al. PARAMO pipeline: reconstructing ancestral anatomies using ontologies and stochastic mapping. bioRxiv 2019 [https://doi.org/10.1101/553370](https://doi.org/10.1101/553370)
