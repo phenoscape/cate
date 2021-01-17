@@ -48,7 +48,7 @@ We are (or will soon be) actively recruiting undergraduate and graduate students
 
 ### Funding
 
-This project has been funded by the US National Science Foundation (NSF) as collaborative awards [1661456] (Duke University), [1661529] (Virginia Tech), [1661516] (University of South Dakota), and [1661356] (UNC Chapel Hill and RENCI) within the Advances in Biological Informatics (ABI) program. The start date was Sep 1, 2017, and the award is for 3 years.
+This project has been funded by the US National Science Foundation (NSF) as collaborative awards [1661456] (Duke University), [1661529] (University of South Dakota), [1661516] (Virginia Tech), and [1661356] (UNC Chapel Hill and RENCI) within the Advances in Biological Informatics (ABI) program. The start date was Sep 1, 2017, and the award is for 3 years.
 
 The grant proposal text with references is publicly available:
 > W. Dahdul, J.P. Balhoff, H. Lapp, J. Uyeda, & T.J. Vision. (2017). Enabling machine-actionable semantics for comparative analyses of trait evolution. Zenodo. <http://doi.org/10.5281/zenodo.885538>
